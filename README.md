@@ -1,2 +1,1 @@
-# data_collection
-this is a test
+# libaries used : pandas, re, numpy, sklearn
