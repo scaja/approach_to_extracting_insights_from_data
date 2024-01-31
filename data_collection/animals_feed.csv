@@ -1,5 +1,21 @@
-id,animal,mammal,carrot vegetable,chicken meat,pork meat,grains vegetable
-1,Rabbit,yes,yes,no,no,yes
-2,dog,yes,yes,yes,yes,no
-3,cat,yes,yes,yes,yes,no
-4,bird,no,yes,no,no,yes
+id,animal,mammal,carrot vegetable,chicken meat,pork meat,grains vegetable,mouse meat,spider insect,leaves vegetable
+1,Iberian hare,yes,yes,no,no,yes,no,no,no
+2,Golden retriever,yes,yes,yes,yes,yes,no,no,no
+3,balinese cat,yes,yes,yes,yes,no,yes,no,no
+4,sparrow,no,yes,no,no,yes,no,yes,yes
+5,coati,yes,yes,no,no,no,yes,no,no
+6,Warthog,yes,yes,yes,yes,no,no,no,no
+7,Jaguar,yes,no,yes,yes,no,no,no,no
+8,Bearded monkey,yes,yes,no,no,no,no,no,no
+9,Bonobo monkey,yes,yes,no,no,no,no,no,no
+10,Lowland gorilla,yes,yes,no,no,no,no,no,no
+11,Indian sloth bear,yes,yes,no,no,no,no,no,no
+12,icebear,yes,yes,yes,yes,no,yes,no,no
+13,Bombay cat,yes,yes,yes,yes,no,yes,no,no
+14,Lion,yes,no,yes,yes,no,yes,no,no
+15,Java Leopard,yes,no,yes,yes,no,no,no,no
+16,Adder,no,no,no,no,no,yes,no,no
+17,Whinchat,no,no,no,no,no,no,yes,no
+18,border collie,yes,yes,yes,yes,yes,no,no,no
+19,tortoise,no,no,no,no,no,no,no,yes
+20,Guinea pig,yes,yes,no,no,no,no,no,yes
